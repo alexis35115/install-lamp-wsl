@@ -1,7 +1,5 @@
 # Guide d'installation de LAMP sur WSL
 
-> DOCUMENT EN COURS DE RÉDACTION
-
 ## Préambule
 
 Suite à l'utilisation de WAMP sous Windows, je suis venu à la conclusion que le workflow n'était pas efficace. La performance de phpMyAdmin sous Wamp est __horrible__! C'est pourquoi que j'ai cherché pour une solution et la plus facile semblait d'utiliser LAMP sous WSL.
@@ -28,7 +26,5 @@ Si vous avez un message d'erreur dans phpMyAdmin suite à l'exécution d'une req
 
 - <https://docs.microsoft.com/fr-ca/windows/wsl/about>
 - <https://docs.microsoft.com/fr-ca/windows/wsl/install-win10>
-
-Comment installer LAMP sur WSL
 
 Tous droits réservés 2021 © Alexis Garon-Michaud
