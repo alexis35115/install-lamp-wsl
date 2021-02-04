@@ -14,13 +14,13 @@ Pour démarrer avec WSL, suivez-la [documentation officielle de Microsoft](https
 
 ## Installation de LAMP sous WSL
 
-Suivre la [procédure](https://www.how2shout.com/how-to/how-to-install-apache-mysql-php-phpmyadmin-on-windows-10-wsl.html) dans le guide.
+Suivez-la [procédure](https://www.how2shout.com/how-to/how-to-install-apache-mysql-php-phpmyadmin-on-windows-10-wsl.html) dans le guide.
 
-Ajouter la [configuration](https://askubuntu.com/a/19128) `Apache` à phpMyAdmin.
+Ajoutez la [configuration](https://askubuntu.com/a/19128) `Apache` à phpMyAdmin.
 
-[Configuration](https://stackoverflow.com/a/52335791) du mot de passe de l'utilisateur `root` pour permettre la connexion à phpMyAdmin.
+[Configurez](https://stackoverflow.com/a/52335791) le mot de passe de l'utilisateur `root` pour permettre la connexion à phpMyAdmin.
 
-Si vous avez un message d'erreur dans phpMyAdmin suite à l'exécution d'une requête, regardez cette réponse sur [stackover flow](https://stackoverflow.com/questions/48001569/phpmyadmin-count-parameter-must-be-an-array-or-an-object-that-implements-co).
+Dans le cas où, vous avez un message d'erreur dans phpMyAdmin suite à l'exécution d'une requête, regardez cette réponse sur [stackover flow](https://stackoverflow.com/questions/48001569/phpmyadmin-count-parameter-must-be-an-array-or-an-object-that-implements-co).
 
 ## Références
 
